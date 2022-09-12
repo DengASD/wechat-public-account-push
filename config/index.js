@@ -65,7 +65,7 @@ export const config = {
     },
     {
       name: "老婆",
-      id: "oKxmw6rOIkdxvGO13geWTW_zyrwY",
+      id: "oKxmw6mLa4Tda_k9_MIE1TEAXfDo",
       useTemplateId: "rYxbHbu7Ue9CYtVXm5HM7wpYEVcKlyzLn6kKGJj_RTA",
       province: "重庆",
       city: "重庆",
